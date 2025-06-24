@@ -10,3 +10,6 @@ frontend/build
 
 # Backend
 backend/node_modules
+
+#libs
+**/WEB-INF/lib/
