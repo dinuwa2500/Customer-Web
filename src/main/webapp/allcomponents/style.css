@@ -1,0 +1,31 @@
+
+.sidebar {
+  width: 250px;
+  background-color: #333;
+}
+
+.nav-link.active {
+  background-color: #ff4081;
+}
+
+.btn-pink {
+  background-color: #ff4081;
+  color: white;
+}
+
+.btn-pink:hover {
+  background-color: #e0356b;
+}
+
+.bg-pink {
+  background-color: #ff4081;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+ul.nav {
+  list-style-type: none;
+  padding-left: 0;
+}
